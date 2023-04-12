@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dy4v8difjxkobw4t?svg=true)](https://ci.appveyor.com/project/GalyaChernenko/aqa-code-njj2s)
+[![Build status](https://ci.appveyor.com/api/projects/status/rx7lbs8s6qhm5w7g?svg=true)](https://ci.appveyor.com/project/GalyaChernenko/aqa-code-e1dgg)
